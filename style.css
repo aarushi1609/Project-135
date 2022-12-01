@@ -21,3 +21,8 @@ button
 padding-right: 10px;
 border-radius: 10px;
 }
+
+canvas
+{
+    margin-top: 80px;
+}
